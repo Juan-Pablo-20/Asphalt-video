@@ -101,3 +101,17 @@ body {
     }
 }
 
+@media screen and (max-width: 390px ) {
+.video {
+        width: 250px;
+        height: 140px;
+    }
+
+    .titulo {
+        font-size: 100%;
+    }
+
+    body {
+        background-size: 100% 30%;
+    }
+}
